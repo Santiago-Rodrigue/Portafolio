@@ -154,7 +154,7 @@
     padding: 10px;
     border-radius: 1000px;
     display: block;
-    transition: all 0.2s ease;
+    transition: all 0.2s ease; 
   }
   
   .proyectos-contenedor {
